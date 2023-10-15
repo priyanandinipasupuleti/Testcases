@@ -1,0 +1,22 @@
+[
+  {
+    "input": "Hello World",
+    "output": "hello world",
+    "result": true
+  },
+  {
+    "input": "Python Is Fun",
+    "output": "python is fun",
+    "result": true
+  },
+  {
+    "input": "1234",
+    "output": "1234",
+    "result": true
+  },
+  {
+    "input": "UPPERCASE",
+    "output": "uppercase",
+    "result": true
+  }
+]

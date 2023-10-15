@@ -1,0 +1,27 @@
+[
+  {
+    "input": "10",
+    "output": 2,
+    "result": false
+  },
+  {
+    "input": "11",
+    "output": 3,
+    "result": false
+  },
+  {
+    "input": "100",
+    "output": 4,
+    "result": false
+  },
+  {
+    "input": "11111",
+    "output": 31,
+    "result": false
+  },
+  {
+    "input": "11111111",
+    "output": 255,
+    "result": false
+  }
+]

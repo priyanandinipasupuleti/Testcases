@@ -1,0 +1,22 @@
+[
+    {
+        "input": 10,
+        "output": "12",
+        "result": "pass"
+    },
+    {
+        "input": 20,
+        "output": "30",
+        "result": "pass"
+    },
+    {
+        "input": 42,
+        "output": "52",
+        "result": "pass"
+    },
+    {
+        "input": 255,
+        "output": "377",
+        "result": "pass"
+    }
+]

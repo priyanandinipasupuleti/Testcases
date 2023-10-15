@@ -1,0 +1,17 @@
+[
+    {
+        "input": 0.0,
+        "output": 32.0,
+        "result": "pass"
+    },
+    {
+        "input": 100.0,
+        "output": 212.0,
+        "result": "pass"
+    },
+    {
+        "input": -40.0,
+        "output": -40.0,
+        "result": "pass"
+    }
+]

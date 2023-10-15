@@ -1,0 +1,22 @@
+[
+  {
+    "input": 10,
+    "output": "12",
+    "result": true
+  },
+  {
+    "input": 20,
+    "output": "30",
+    "result": false
+  },
+  {
+    "input": 42,
+    "output": "52",
+    "result": true
+  },
+  {
+    "input": 255,
+    "output": "377",
+    "result": true
+  }
+]
